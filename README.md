@@ -193,8 +193,16 @@ developer:
 
 <div align="center">
 
-  <!-- Stats & Streak Cards in Amber/Emerald & Midnight Navy Theme (High Uptime Mirror) -->
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=tanisha162&show_icons=true&hide_border=true&title_color=F59E0B&icon_color=10B981&text_color=F0F6FC&bg_color=0D1117" alt="Tanisha's GitHub Stats" height="165" />
+  <!-- Real-Time GitHub Contribution Block Heatmap -->
+  <h4>🟩 Yearly Contribution Calendar</h4>
+  <a href="https://github.com/tanisha162">
+    <img src="https://ghchart.rshah.org/10B981/tanisha162" alt="Tanisha's GitHub Contribution Grid" width="100%" />
+  </a>
+
+  <br /><br />
+
+  <!-- Stats & Streak Cards in Amber/Emerald & Midnight Navy Theme (with Private & All Commits Enabled) -->
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=tanisha162&show_icons=true&hide_border=true&title_color=F59E0B&icon_color=10B981&text_color=F0F6FC&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Tanisha's GitHub Stats" height="165" />
   <img src="https://streak-stats.demolab.com/?user=tanisha162&hide_border=true&background=0D1117&ring=F59E0B&fire=F59E0B&currStreakNum=10B981&sideNums=F0F6FC&sideLabels=94A3B8" alt="GitHub Streak" height="165" />
 
   <br /><br />
