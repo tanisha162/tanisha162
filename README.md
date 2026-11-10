@@ -178,16 +178,14 @@ developer:
 
 <div align="center">
 
-```text
-┌─────────────────────────────────────────────────────────────────────────┐
-│                           KEY ACHIEVEMENTS                              │
-├─────────────────────────────────────────────────────────────────────────┤
-│  ⚡ 500+ DSA Problems Solved across LeetCode & GeeksforGeeks           │
-│  🥉 3rd Rank — Weekly Coding Leaderboard, Naukri 360 Silver League      │
-│  🎖️  5th Position University-Wide — Advanced Level Python Bootcamp       │
-│  📜 Certified: AWS Cloud • AI • GenAI Data Analytics Simulation        │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+  <p align="center">
+    <img src="https://img.shields.io/badge/⚡_500%2B_DSA_Problems_Solved-LeetCode_%26_GFG-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="500+ DSA Problems" style="max-width: 100%; height: auto;" />
+    <img src="https://img.shields.io/badge/🥉_3rd_Rank-Naukri_360_Silver_League-F59E0B?style=for-the-badge" alt="3rd Rank" style="max-width: 100%; height: auto;" />
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/🎖️_5th_Position_University--Wide-Python_Bootcamp-10B981?style=for-the-badge" alt="5th Position" style="max-width: 100%; height: auto;" />
+    <img src="https://img.shields.io/badge/📜_AWS_Cloud_%7C_AI_%7C_GenAI-Certified-1E293B?style=for-the-badge&logoColor=white" alt="Certifications" style="max-width: 100%; height: auto;" />
+  </p>
 
 </div>
 
