@@ -1,5 +1,12 @@
 <div align="center">
 
+  <!-- Upgraded Profile Avatar with Themed Glowing Halo -->
+  <a href="https://github.com/tanisha162">
+    <img src="https://raw.githubusercontent.com/tanisha162/tanisha162/main/assets/tanisha_github_avatar.png" alt="Tanisha Gupta" width="135" style="border-radius: 50%; max-width: 100%;" />
+  </a>
+
+  <br /><br />
+
   <!-- Dynamic Typing Hero Header -->
   <a href="https://github.com/tanisha162">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F59E0B&center=true&vCenter=true&random=false&width=700&height=50&lines=Hi+there%2C+I'm+Tanisha+Gupta+%F0%9F%91%8B;Full-Stack+Developer+%26+AI%2FML+Engineer;Building+RAG+Architectures+%26+Agentic+Workflows;Scalable+Backend+APIs+%7C+FastAPI+%26+Supabase;B.Tech+CSE+%40+Jaypee+University+(2023-2027)" alt="Typing SVG Banner" />
@@ -12,7 +19,7 @@
 
   <!-- Quick-Action Social & Connect Badges -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/tanisha-gupta162" target="_blank">
+    <a href="https://www.linkedin.com/in/tanisha-gupta162" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:gtanisha162@gmail.com">
@@ -21,10 +28,10 @@
     <a href="https://github.com/tanisha162">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://leetcode.com/u/tanisha162" target="_blank">
+    <a href="https://leetcode.com/u/tanisha162" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
-    <a href="https://www.geeksforgeeks.com/user/tanisha162/" target="_blank">
+    <a href="https://www.geeksforgeeks.org/user/tanisha162/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
     </a>
     <img src="https://img.shields.io/badge/Bulandshahr%2C%20UP-India-1E293B?style=for-the-badge&logo=google-maps&logoColor=F59E0B" alt="Location" />
@@ -61,7 +68,7 @@ developer:
   <tr>
     <td width="50%" valign="top">
       <h4>🏢 Full Stack Web Developer Intern</h4>
-      <p><strong><a href="#">MSG Technologies</a></strong> • <code>Aug 2026</code></p>
+      <p><strong>MSG Technologies</strong> • <code>Aug 2026</code></p>
       <ul>
         <li>Integrated <strong>DeepSeek-R1 LLM</strong> & <strong>OpenRouter APIs</strong> to process raw academic repositories into high-dimensional vector embeddings and concise profile summaries for sub-second client-side querying.</li>
         <li>Architected and managed cloud relational schemas in <strong>Supabase / PostgreSQL</strong> to ensure atomic state management, real-time data persistence, and zero-downtime migrations.</li>
@@ -70,7 +77,7 @@ developer:
     </td>
     <td width="50%" valign="top">
       <h4>🏢 Software Engineering Intern</h4>
-      <p><strong><a href="#">Traviez Innovations Pvt. Ltd.</a></strong> • <code>May 2025 – Jul 2025</code></p>
+      <p><strong>Traviez Innovations Pvt. Ltd.</strong> • <code>May 2025 – Jul 2025</code></p>
       <ul>
         <li>Engineered high-throughput backend <strong>RESTful APIs</strong> for an interactive location-based city guide platform serving real-time local business discovery.</li>
         <li>Constructed secure JWT-based authentication pipelines and input validation middleware to protect sensitive business endpoints.</li>
@@ -82,7 +89,7 @@ developer:
   <tr>
     <td colspan="2" valign="top">
       <h4>⚡ Technical Research & Hackathons — RIDEHACK 2025</h4>
-      <p><strong><a href="#">Jaypee Institute of Information Technology (JIIT)</a></strong></p>
+      <p><strong>Jaypee Institute of Information Technology (JIIT)</strong></p>
       <ul>
         <li>Conducted in-depth systems research on <strong>"Another U (AATMA AI)"</strong> conversational agents, formulating core architectural specifications and state-transition models for intelligent interactive personas.</li>
       </ul>
@@ -118,13 +125,13 @@ developer:
       </h3>
       <p><em>AI-Powered Context-Aware Document Q&A Platform</em></p>
       <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vector_DB-10B981?style=flat-square" />
-        <img src="https://img.shields.io/badge/RAG_Pipeline-F59E0B?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Vector_DB-10B981?style=flat-square" alt="Vector DB" />
+        <img src="https://img.shields.io/badge/RAG_Pipeline-F59E0B?style=flat-square" alt="RAG Pipeline" />
       </p>
       <ul>
-        <li><strong>End-to-End RAG Architecture:</strong> Engineered a robust document ingestion pipeline capable of parsing multi-format uploads, chunking text intelligently, and persisting embeddings in vector storage.</li>
+        <li><strong>End-to-End RAG Architecture:</strong> Engineered a robust document ingestion pipeline parsing multi-format uploads, chunking text intelligently, and persisting embeddings in vector storage.</li>
         <li><strong>Sub-second Semantic Querying:</strong> Developed asynchronous <strong>FastAPI</strong> microservice endpoints orchestrating hybrid search and LLM context synthesis for high precision Q&A.</li>
         <li><strong>Production API Design:</strong> Built structured error handling, OpenAPI documentation, and streaming token responses.</li>
       </ul>
@@ -142,13 +149,13 @@ developer:
       </h3>
       <p><em>AI-Based Smart Attendance Automation Platform</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dlib-CV-0284C7?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Dlib-CV-0284C7?style=flat-square" alt="Dlib" />
       </p>
       <ul>
-        <li><strong>Real-Time Computer Vision Pipeline:</strong> Leveraged <strong>Dlib</strong> facial landmark localization and vector embeddings to achieve instant, high-confidence student identification from live webcam feeds.</li>
+        <li><strong>Real-Time Computer Vision Pipeline:</strong> Leveraged <strong>Dlib</strong> facial landmark localization and vector embeddings to achieve instant, high-confidence student identification from live camera feeds.</li>
         <li><strong>Cloud-Native State Management:</strong> Integrated <strong>Supabase</strong> PostgreSQL backend to automate attendance logging, verification workflows, and roster synchronization.</li>
         <li><strong>Interactive Teacher Dashboard:</strong> Delivered a zero-friction <strong>Streamlit</strong> management portal featuring exportable attendance metrics and real-time alerts.</li>
       </ul>
@@ -186,17 +193,17 @@ developer:
 
 <div align="center">
 
-  <!-- GitHub Stats & Streak Cards styled with extracted Amber & Emerald Palette -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tanisha162&show_icons=true&hide_border=true&title_color=F59E0B&icon_color=10B981&text_color=F0F6FC&bg_color=0D1117" alt="Tanisha's GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanisha162&hide_border=true&background=0D1117&ring=F59E0B&fire=F59E0B&currStreakNum=10B981&sideNums=F0F6FC&sideLabels=94A3B8" alt="GitHub Streak" height="165" />
+  <!-- Stats & Streak Cards in Amber/Emerald & Midnight Navy Theme (High Uptime Mirror) -->
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=tanisha162&show_icons=true&hide_border=true&title_color=F59E0B&icon_color=10B981&text_color=F0F6FC&bg_color=0D1117" alt="Tanisha's GitHub Stats" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=tanisha162&hide_border=true&background=0D1117&ring=F59E0B&fire=F59E0B&currStreakNum=10B981&sideNums=F0F6FC&sideLabels=94A3B8" alt="GitHub Streak" height="165" />
 
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanisha162&layout=compact&hide_border=true&title_color=F59E0B&text_color=F0F6FC&bg_color=0D1117" alt="Top Languages" height="145" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=tanisha162&layout=compact&hide_border=true&title_color=F59E0B&text_color=F0F6FC&bg_color=0D1117" alt="Top Languages" height="145" />
 
   <br />
 
-  <!-- Animated Contribution Snake matching Amber/Emerald dark palette -->
+  <!-- Animated Contribution Snake -->
   <h4>🐍 Interactive Contribution Snake</h4>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanisha162/tanisha162/output/github-contribution-grid-snake-dark.svg" />
@@ -211,6 +218,6 @@ developer:
 <div align="center">
   <p><em>Designed with precision & themed to match Tanisha's signature aesthetic • Thanks for stopping by!</em></p>
   <a href="https://github.com/tanisha162">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=70&section=footer" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=70&section=footer" width="100%" alt="Footer Wave" />
   </a>
 </div>
